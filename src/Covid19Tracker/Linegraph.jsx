@@ -4,6 +4,7 @@ import './Covid19.css'
 
 function Linegraph(props) {
     return (
+        //this is the line graph
         <div className="lineGraph">
             <Line
             data=
